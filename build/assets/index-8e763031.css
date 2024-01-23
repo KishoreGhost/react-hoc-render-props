@@ -1,0 +1,1 @@
+body{margin:0;height:100vh;background-color:salmon}#main{display:flex;flex-direction:column;justify-content:center;align-items:center}button{cursor:pointer;background-color:#0ff;width:10vw;height:5vh;border-radius:10px}h3{font-size:1.5rem;text-align:center;color:#000}
